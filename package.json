@@ -1,6 +1,7 @@
 {
     "name": "summernote-plugins",
     "version": "0.1.0",
+    "main": "index.js",
     "description": "Collection of summernote plugins",
     "devDependencies": {
       "summernote": ">=0.7.0"
