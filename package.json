@@ -1,0 +1,13 @@
+{
+    "name": "summernote-plugins",
+    "version": "0.1",
+    "description": "Collection of summernote plugins",
+    "devDependencies": {
+      "summernote": ">=0.7.0"
+    },
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sissi Adamski",
+    "license": "MIT"
+  }
