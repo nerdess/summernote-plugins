@@ -1,1 +1,1 @@
-import '/plugins/quotation';
+import './plugins/quotation';
